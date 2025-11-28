@@ -21,7 +21,7 @@
     <a href="https://github.com/eelops"><img src="https://img.shields.io/badge/GitHub-eelops-blue?logo=github" alt="GitHub" title="GitHub" /></a>
     <a href="https://www.hebut.edu.cn/"><img src="https://img.shields.io/badge/本科院校-河北工业大学-red" alt="本科院校-河北工业大学" /></a>
     <img src="https://img.shields.io/badge/专业-人工智能-yellow" alt="专业-人工智能" />
-    <img src="https://img.shields.io/badge/单推-提纳里-green" alt="单推-提纳里" />
+    <a href="https://ys.mihoyo.com/main/news/detail/117599"><img src="https://img.shields.io/badge/单推-提纳里-green" alt="单推-提纳里" /></a>
 </p>
 
 <p align="center">
@@ -31,6 +31,9 @@
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=eelops&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+</p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=eelops&color=blueviolet&style=flat-square&label=Profile+Views" alt="watching_count" />
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/eelops/eelops/main/backg.jpg" alt="background" /></p>
