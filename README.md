@@ -33,5 +33,5 @@
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=eelops&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/eelops/eelops/main/backg.jpg" alt="background" /></p>
+<p align="center"><img src="https://github.com/eelops/eelops/main/backg.jpg" alt="background" /></p>
 
