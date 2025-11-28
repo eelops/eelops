@@ -24,14 +24,16 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
+    <!-- https://github.com/LelouchFR/skill-icons -->
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,pytorch,jupyter,opencv,c,cpp,java,md,mermaid,overleaf,latex,photoshop,n8n,vim&titles=true" alt="Skill Icons" title="Skill Icons">
+</p>
+
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=eelops&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
 </p>
 
 
-<p align="center">
-    <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,pytorch,jupyter,opencv,c,cpp,java,md,mermaid,overleaf,latex,photoshop,n8n,vim&titles=true" alt="Skill Icons" title="Skill Icons">
-</p>
+
 
 
 <p align="center">
