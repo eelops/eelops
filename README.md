@@ -22,9 +22,11 @@ Here are some ideas to get you started:
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
     <img width="800" src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=20&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page;%e6%ac%a2%e8%bf%8e%e6%9d%a5%e5%88%b0%e6%88%91%e7%9a%84+GitHub+%e4%b8%bb%e9%a1%b5" alt="Hello World" title="Hello World"/>
 </p>
+
 <p align="center">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eelops&show_icons=true&theme=radical)
+    <img src="https://github-readme-stats.vercel.app/api?username=eelops&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
 </p>
+
 
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
