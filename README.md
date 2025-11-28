@@ -22,8 +22,9 @@ Here are some ideas to get you started:
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
     <img width="800" src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=20&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page;%e6%ac%a2%e8%bf%8e%e6%9d%a5%e5%88%b0%e6%88%91%e7%9a%84+GitHub+%e4%b8%bb%e9%a1%b5" alt="Hello World" title="Hello World"/>
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eelops&show_icons=true&theme=radical)
+<p align="center">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eelops&show_icons=true&theme=radical)
+</p>
 
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
@@ -34,10 +35,12 @@ Here are some ideas to get you started:
 <p align="center">
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/eelops"><img src="https://img.shields.io/badge/GitHub-eelops-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    ![](https://img.shields.io/badge/本科院校-河北工业大学-blue)
-    ![](https://img.shields.io/badge/就读专业-人工智能-yellow)
-    ![](https://img.shields.io/badge/只推-提纳里-green)
+    
 </p>
+
+![](https://img.shields.io/badge/本科院校-河北工业大学-blue)
+![](https://img.shields.io/badge/就读专业-人工智能-yellow)
+![](https://img.shields.io/badge/只推-提纳里-green)
 
 
 <p align="center">
