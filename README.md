@@ -1,17 +1,4 @@
-<!--
-**eelops/eelops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
@@ -38,10 +25,11 @@ Here are some ideas to get you started:
 
 <p align="center">
     <!-- https://github.com/badges/shields --> 
+    <a href="https://eelops.github.io/"><img src="https://img.shields.io/badge/个人博客-Blog-8A2BE2?logo=rss&logoColor=white" alt="个人博客" /></a>
     <a href="https://github.com/eelops"><img src="https://img.shields.io/badge/GitHub-eelops-blue?logo=github" alt="GitHub" title="GitHub" /></a>
     <img src="https://img.shields.io/badge/本科院校-河北工业大学-blue" alt="本科院校-河北工业大学" />
-    <img src="https://img.shields.io/badge/就读专业-人工智能-yellow" alt="就读专业-人工智能" />
-    <img src="https://img.shields.io/badge/只推-提纳里-green" alt="只推-提纳里" />
+    <img src="https://img.shields.io/badge/就读专业-人工智能-yellow" alt="专业-人工智能" />
+    <img src="https://img.shields.io/badge/只推-提纳里-green" alt="单推-提纳里" />
 </p>
 
 
