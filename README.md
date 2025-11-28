@@ -14,7 +14,9 @@
     <!-- https://github.com/LelouchFR/skill-icons -->
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,pytorch,jupyter,opencv,c,cpp,java,md,mermaid,overleaf,latex,photoshop,n8n,vim&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
-
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=eelops&color=lightgrey&style=flat-square&label=Profile+Views" alt="watching_count" />
+</p>
 <p align="center">
     <!-- https://github.com/badges/shields --> 
     <a href="https://eelops.github.io/"><img src="https://img.shields.io/badge/个人博客-Blog-8A2BE2?logo=rss&logoColor=white" alt="个人博客" /></a>
@@ -32,9 +34,7 @@
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=eelops&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=eelops&color=blueviolet&style=flat-square&label=Profile+Views" alt="watching_count" />
-</p>
+
 
 <p align="center"><img src="https://raw.githubusercontent.com/eelops/eelops/main/backg.jpg" alt="background" /></p>
 
