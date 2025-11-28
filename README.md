@@ -19,7 +19,7 @@
     <!-- https://github.com/badges/shields --> 
     <a href="https://eelops.github.io/"><img src="https://img.shields.io/badge/个人博客-Blog-8A2BE2?logo=rss&logoColor=white" alt="个人博客" /></a>
     <a href="https://github.com/eelops"><img src="https://img.shields.io/badge/GitHub-eelops-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <img src="https://img.shields.io/badge/本科院校-河北工业大学-red" alt="本科院校-河北工业大学" />
+    <a href="https://www.hebut.edu.cn/"><img src="https://img.shields.io/badge/本科院校-河北工业大学-red" alt="本科院校-河北工业大学" /></a>
     <img src="https://img.shields.io/badge/专业-人工智能-yellow" alt="专业-人工智能" />
     <img src="https://img.shields.io/badge/单推-提纳里-green" alt="单推-提纳里" />
 </p>
