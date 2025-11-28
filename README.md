@@ -16,25 +16,22 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=eelops&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
-</p>
-
-
-
-
-
-<p align="center">
     <!-- https://github.com/badges/shields --> 
     <a href="https://eelops.github.io/"><img src="https://img.shields.io/badge/个人博客-Blog-8A2BE2?logo=rss&logoColor=white" alt="个人博客" /></a>
     <a href="https://github.com/eelops"><img src="https://img.shields.io/badge/GitHub-eelops-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <img src="https://img.shields.io/badge/本科院校-河北工业大学-blue" alt="本科院校-河北工业大学" />
+    <img src="https://img.shields.io/badge/本科院校-河北工业大学-red" alt="本科院校-河北工业大学" />
     <img src="https://img.shields.io/badge/就读专业-人工智能-yellow" alt="专业-人工智能" />
     <img src="https://img.shields.io/badge/只推-提纳里-green" alt="单推-提纳里" />
 </p>
 
-
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=eelops&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
+</p>
 
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=eelops&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/eelops/eelops/main/backg.jpg" alt="background" /></p>
+
