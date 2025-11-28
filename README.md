@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20EELOP&descAlign=50&descSize=30&descAlignY=60&animation=twinkling&fontColor=7B68EE" alt="Hi There" title="Hi There"/>
+    <img src="https://capsule-render.vercel.app/api?type=Blur&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20EELOP&descAlign=50&descSize=30&descAlignY=60&animation=twinkling&fontColor=000000" alt="Hi There" title="Hi There"/>
 </p>
 
 <p align="center">
