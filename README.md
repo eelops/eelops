@@ -27,10 +27,6 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=eelops&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
-</p>
-
-<p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=eelops&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
