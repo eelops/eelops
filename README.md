@@ -24,14 +24,16 @@
     <a href="https://ys.mihoyo.com/main/news/detail/117599"><img src="https://img.shields.io/badge/单推-提纳里-green" alt="单推-提纳里" /></a>
 </p>
 
-<p align="center">
-    <table>
-        <tr>
-            <td><img src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.plugin.isocalendar.svg" alt="Half-year calendar" /></td>
-            <td><img src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.plugin.stars.svg" alt="Recently starred" /></td>
-        </tr>
-    </table>
-</p>
+<table align="center">
+    <tr>
+        <td valign="top" align="center">
+            <img width="400" src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.plugin.isocalendar.svg" alt="Half-year calendar" />
+        </td>
+        <td valign="top" align="center">
+            <img width="400" src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.plugin.stars.svg" alt="Recently starred" />
+        </td>
+    </tr>
+</table>
 
 
 
