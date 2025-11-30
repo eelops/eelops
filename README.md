@@ -25,15 +25,15 @@
 </p>
 
 <p align="center">
-    <img width="800" src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.plugin.isocalendar.svg" alt="Half-year calendar" />
+    <img width="700" src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.plugin.isocalendar.svg" alt="Half-year calendar" />
 </p>
 <p align="center">
-    <img width="800" src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.plugin.stars.svg" alt="Recently starred" />
+    <img width="700" src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.plugin.stars.svg" alt="Recently starred" />
 </p>
 
 
 <p align="center">
-    <img width="800" src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.terminal.svg" alt="Terminal" />
+    <img width="700" src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.terminal.svg" alt="Terminal" />
 </p>
 
 
