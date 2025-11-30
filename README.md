@@ -38,7 +38,7 @@
 
 
 <p align="center">
-    <img width="700" src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.terminal.svg" alt="Terminal" />
+    <img width="500" src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.terminal.svg" alt="Terminal" />
 </p>
 
 
