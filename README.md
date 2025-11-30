@@ -27,6 +27,9 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.plugin.isocalendar.svg" alt="Half-year calendar" />
 </p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.plugin.stars.svg" alt="Recently starred" />
+</p>
 
 
 <p align="center">
