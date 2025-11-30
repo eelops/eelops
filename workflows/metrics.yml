@@ -1,0 +1,25 @@
+name: Metrics
+on:
+  # 每天北京时间早上8点自动运行（UTC 0点）
+  schedule: [{cron: "0 0 * * *"}]
+  # 允许手动触发
+  workflow_dispatch:
+  # 每次推送到 main 分支时运行
+  push: {branches: ["main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # 生成半年贡献日历图
+      - name: Half-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: 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
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          config_timezone: Asia/Shanghai
