@@ -27,10 +27,10 @@
 <table align="center">
     <tr>
         <td valign="top" align="center">
-            <img width="600" src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.plugin.isocalendar.svg" alt="Half-year calendar" />
+            <img width="500" src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.plugin.isocalendar.svg" alt="Half-year calendar" />
         </td>
         <td valign="top" align="center">
-            <img width="200" src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.plugin.stars.svg" alt="Recently starred" />
+            <img width="300" src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.plugin.stars.svg" alt="Recently starred" />
         </td>
     </tr>
 </table>
