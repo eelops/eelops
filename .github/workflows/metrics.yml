@@ -30,3 +30,11 @@ jobs:
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 3
+
+      - name: Terminal style
+        uses: lowlighter/metrics@latest
+        with:
+          template: terminal
+          filename: metrics.terminal.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, metadata
