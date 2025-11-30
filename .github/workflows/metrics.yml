@@ -18,7 +18,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.svg
-          token: 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
+          token: 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
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
