@@ -12,9 +12,11 @@
     <!-- https://github.com/LelouchFR/skill-icons -->
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,pytorch,jupyter,opencv,c,cpp,java,md,mermaid,overleaf,latex,photoshop,n8n,vim&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
+
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=eelops&color=lightgrey&style=for-the-badge&label=Profile+Views" alt="watching_count" />
 </p>
+
 <p align="center">
     <!-- https://github.com/badges/shields --> 
     <a href="https://eelops.github.io/"><img src="https://img.shields.io/badge/个人博客-Blog-8A2BE2?logo=rss&logoColor=white" alt="个人博客" /></a>
@@ -24,24 +26,21 @@
     <a href="https://ys.mihoyo.com/main/news/detail/117599"><img src="https://img.shields.io/badge/单推-提纳里-green" alt="单推-提纳里" /></a>
 </p>
 
-<table align="center">
-    <tr>
-        <td valign="top" align="center">
-            <img width="450" src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.plugin.isocalendar.svg" alt="Half-year calendar" />
-        </td>
-        <td valign="top" align="center">
-            <img width="350" src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.plugin.stars.svg" alt="Recently starred" />
-        </td>
-    </tr>
-</table>
-
-
-
 <p align="center">
-    <img width="500" src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.terminal.svg" alt="Terminal" />
+    <img src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.terminal.svg" alt="Terminal" />
 </p>
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.plugin.isocalendar.svg" alt="Half-year calendar" />
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.plugin.stars.svg" alt="Recently starred" />
+</p>
+
+<p align="center">
+    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=eelops&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+</p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/eelops/eelops/main/backg.jpg" alt="background" /></p>
-
-
