@@ -30,17 +30,24 @@
     <img src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.terminal.svg" alt="Terminal" />
 </p>
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.plugin.isocalendar.svg" alt="Half-year calendar" />
-</p>
+<table align="center">
+    <tr>
+        <td valign="top" align="center">
+            <img width="49%" src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.plugin.isocalendar.svg" alt="Half-year calendar" />
+        </td>
+        <td valign="top" align="center">
+            <img width="49%" src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.plugin.stars.svg" alt="Recently starred" />
+        </td>
+    </tr>
+</table>
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.plugin.stars.svg" alt="Recently starred" />
-</p>
+<div align="center">
+<!-- 多维度统计 -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eelops&theme=algolia&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&dates=8B949E&sideLabels=8B949E&sideNums=8B949E&border_radius=15" alt="GitHub Streak" />
 
-<p align="center">
-    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=eelops&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eelops&custom_title=eelops's%20Contribution%20Graph&theme=react-dark&bg_color=0d1117&hide_border=true&color=58a6ff&line=238636&point=58a6ff&area=true&area_color=238636" alt="Activity Graph" width="100%"/>
+</div>
+</div>
 
 <p align="center"><img src="https://raw.githubusercontent.com/eelops/eelops/main/backg.jpg" alt="background" /></p>
