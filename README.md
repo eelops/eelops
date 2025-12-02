@@ -58,3 +58,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eelops&custom_title=eelops's%20Contribution%20Graph&theme=react-dark&bg_color=0d1117&hide_border=true&color=58a6ff&line=238636&point=58a6ff&area=true&area_color=238636" alt="Activity Graph" width="100%"/>
 </div>
+
+---
+
+<p align="center"><img src="https://raw.githubusercontent.com/eelops/eelops/main/backg.jpg" alt="background" /></p>
