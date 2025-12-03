@@ -47,11 +47,6 @@
     <img src="https://raw.githubusercontent.com/eelops/eelops/main/metrics.plugin.stars.svg" alt="Recently starred" />
 </p>
 
-<h2 align="center">🔥 GitHub Streak</h2>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eelops&theme=algolia&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&dates=8B949E&sideLabels=8B949E&sideNums=8B949E&border_radius=15" alt="GitHub Streak" />
-</div>
 
 <h2 align="center">📊 Contribution Graph</h2>
 
